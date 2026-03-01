@@ -25,7 +25,7 @@ You don't need to follow the story to use this course — but it's more fun if y
 
 ## Course Outline
 
-- Room 01 - The Basics
+- [Room 01](room-01-the-basics/README.md) - The Basics
 - Room 02 - Working with Data
 - Room 03 - Making Decisions
 - Room 04 - Data Structures
