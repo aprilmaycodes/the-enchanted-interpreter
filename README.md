@@ -61,5 +61,5 @@ Each room folder also contains a `ritual/` folder with the rooms 'ritual' or cha
 
 ## Links
 
-- YouTube: https://youtube.com/@aprilmaycodes
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLutR-qDsVNKjP793Fb2Y7r11ZCfxnRq_X)
 - Contact: contact@aprilmaycodes.com
